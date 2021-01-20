@@ -22,6 +22,7 @@ import Galerie from "./Galerie";
         <li><NavLink to="/formulaire">Formulaire</NavLink></li>
         <li><NavLink to="/galerie">Galerie</NavLink></li>
 
+
         
         </ul>
         <div className="content">
