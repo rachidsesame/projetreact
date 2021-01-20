@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rachidsesame/projetreact.git/static/css/main.ce4cdfbf.chunk.css",
+    "main.js": "/rachidsesame/projetreact.git/static/js/main.a36ff292.chunk.js",
+    "main.js.map": "/rachidsesame/projetreact.git/static/js/main.a36ff292.chunk.js.map",
+    "runtime-main.js": "/rachidsesame/projetreact.git/static/js/runtime-main.f025106e.js",
+    "runtime-main.js.map": "/rachidsesame/projetreact.git/static/js/runtime-main.f025106e.js.map",
+    "static/js/2.2a717fca.chunk.js": "/rachidsesame/projetreact.git/static/js/2.2a717fca.chunk.js",
+    "static/js/2.2a717fca.chunk.js.map": "/rachidsesame/projetreact.git/static/js/2.2a717fca.chunk.js.map",
+    "index.html": "/rachidsesame/projetreact.git/index.html",
+    "static/css/main.ce4cdfbf.chunk.css.map": "/rachidsesame/projetreact.git/static/css/main.ce4cdfbf.chunk.css.map",
+    "static/js/2.2a717fca.chunk.js.LICENSE.txt": "/rachidsesame/projetreact.git/static/js/2.2a717fca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f025106e.js",
+    "static/js/2.2a717fca.chunk.js",
+    "static/css/main.ce4cdfbf.chunk.css",
+    "static/js/main.a36ff292.chunk.js"
+  ]
+}
